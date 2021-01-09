@@ -6,7 +6,7 @@ import SearchBar from ".//SearchBar/SearchBar";
 import SearchResults from "../SearchResults/SearchResults";
 import Spotify from "../util/Spotify";
 
-class App extends React.Component{
+class App extends React.Component{ // by phil
   constructor(props) {
     super(props)
   
